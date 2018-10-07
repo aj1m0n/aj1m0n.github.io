@@ -3242,7 +3242,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #e78e19;
 		}
 
 		.wrapper.style3-alt {
@@ -3840,7 +3840,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #f19b2b;
 						}
 
 		}
@@ -3861,8 +3861,21 @@ input, select, textarea {
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
+		z-index: 0;
 	}
-
+		
+		#intro::before{
+			content: '';
+			position: absolute;
+			top: -5px;
+			bottom: -5px;
+			left: -5px;
+			right: -5px;
+			background: inherit;
+			filter: blur(10px);
+			/* position:absoluteのせいで最前面に来てしまうため */
+			z-index: -1;
+		}
 		#intro p {
 			font-size: 1.25em;
 		}
