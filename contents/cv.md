@@ -1,3 +1,4 @@
+<!--形式はhttps://github.com/xagano/xagano.github.io/blob/master/contents/cv.md を真似させてもらいました-->
 # Publications / Submissons
 
 ## International
