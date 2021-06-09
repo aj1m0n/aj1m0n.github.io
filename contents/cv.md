@@ -5,6 +5,7 @@
 | Date | EVENT | TITLE & SLIDE |
 | :--- | --- | --- |
 |2019.12.11|第64回UBI研究会([link](http://sigubi.ipsj.or.jp/))|エッジセンサーと能動学習に関する研究([link](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=200941&item_no=1))|
+| 2021.03.03 | 第24回ヒューマンプローブ研究会 ([link](https://human-probe.info/)) | Yoloを用いた画像認識による交差点付近におけるリアルタイム車両状態推定 |
 ---
 
 # Internship / part‐time job
