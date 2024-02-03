@@ -20,6 +20,7 @@
 |2019.09|ニフティ株式会社|夏季3daysインターンシップ．データ分析提案コンペで5チーム中1位で優勝|
 |2020.05-|東京大学生産技術研究所大口研([link](http://www.transport.iis.u-tokyo.ac.jp/))|信号機に搭載するセンサの開発(共同研究)|
 |2022.04-| ヤフー株式会社 | エンジニア |
+|2022.12-| [株式会社SenseOne](https://senseone.co.jp) | CEO |
 ---
 
 # National License
